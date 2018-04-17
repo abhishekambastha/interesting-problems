@@ -1,9 +1,9 @@
 package strings;
 
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
-
 /**
  * Created by aambasth on 17/04/18.
+ *
+ * Elegant implemetation for the Knuth-Morris-Pratt algo.
  */
 public class KMP {
 
